@@ -1,0 +1,19 @@
+{
+  "instructors": [
+    {
+      "id": 1,
+      "name": "Angela Wanjiku",
+      "instrument": "Trombone"
+    },
+    {
+      "id": 2,
+      "name": "Phyllis Njoki",
+      "instrument": "Trumpet"
+    },
+    {
+      "id": 3,
+      "name": "Mike Munene",
+      "instrument": "Snare Drums"
+    }
+  ]
+}
